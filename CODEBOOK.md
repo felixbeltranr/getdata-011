@@ -26,9 +26,9 @@ Each set of data contains three different files:
 
 Using an R script, all the information was mixed to obtain a data set with the following information:
 
-1) Subject: Number of the subject (person)
-2) Activity: The state of the subject when the readings where taken
-3) List of variables: The variables contain the mean (average) of the readings for each subject and each activity.
+1) Subject: Number of the subject (person). Unit: Person (each subject corresponds to one person)
+2) Activity: The state of the subject when the readings where taken Unit: Activity (Each activity correspond to one state of each subject)
+3) List of variables: The variables contain the mean (average) of the readings for each subject and each activity. Unit: The mean of each unit.
 
 Note: The file contains only 86 of the 561 variables. The variables contained are the Mean and Standard Deviation variables.
 
